@@ -1,0 +1,11 @@
+.carousel-control-prev-icon,.carousel-control-next-icon{
+   background-color: red;
+}
+/* icon img use */
+.rating-icon{
+   width: 20px;
+}
+
+footer{
+   text-decoration: none;
+}
